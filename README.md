@@ -1,3 +1,9 @@
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/Nathik/Sites/my-app/Snip20221101_1.png?version%3D1667311178776)
+# Download the project 
+
+In the project directory, make sure php phalcon framework is running and configured for the ur. Then you can run:
+
+### `npm install`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
